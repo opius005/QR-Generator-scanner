@@ -1,7 +1,7 @@
 # QR-Generator-scanner
 
 
- - First of complete the the download and setup of android studio for writing codes for flutter apps
+ - First of all complete the the download and setup of android studio for writing codes for flutter apps
  - Download the project zip file and and extract it 
  - Open the project folder in android studio 
  - Now you can see all the the files of the project
